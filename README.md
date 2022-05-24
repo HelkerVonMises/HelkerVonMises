@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a project of my course;
 - 🌱 I’m currently learning Python, C, Arduino and mechatronics;
-- ⚡ Fun fact: i'm trying to improve my skills to a competition.
+- ⚡ Fun fact: i'm improving my skills to a competition.
 
 <div align="center">
   <a href="https://github.com/HelkerVonMises">
