@@ -5,6 +5,7 @@
 -->
 
 - 🔭 I’m currently working on a project of my course;
+- 🤖 The project idea is making a robot play tic-tac-toe with an human
 - 🌱 I’m currently learning Python, C, Arduino and mechatronics;
 - ⚡ Fun fact: i'm improving my skills to a competition.
 
