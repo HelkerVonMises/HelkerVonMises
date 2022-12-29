@@ -4,8 +4,8 @@
 **HelkerVonMises/HelkerVonMises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a project of my course;
-- 🤖 The project idea is making a robot play tic-tac-toe with an human
+- 🔭 I’m currently working on some projects at the moment;
+- 🤖 The projects involve Python and computer vision;
 - 🌱 I’m currently learning Python, C, Arduino and mechatronics;
 - ⚡ Fun fact: i'm improving my skills to a competition.
 
