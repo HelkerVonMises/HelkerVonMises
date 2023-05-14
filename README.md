@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on some projects at the moment;
 - 🤖 The projects involve Python and computer vision;
-- 🌱 I’m currently learning Python, C, Arduino and mechatronics;
-- ⚡ Fun fact: i'm improving my skills to a competition.
+- 🌱 I’m currently learning Python, C, Arduino and automation;
+- ⚡ Fun fact: 2nd place in São Paulo Skills competition in mechatronics #04;
 
 <div align="center">
   <a href="https://github.com/HelkerVonMises">
